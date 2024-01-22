@@ -12,7 +12,7 @@ public class Samle {
 	WebDriverManager.chromedriver().setup();
 	WebDriver driver=new ChromeDriver();
 	driver.manage().window().maximize();
-	driver.get("https://www.facebook.com/");
+	driver.get("https://www.instagram.com/accounts/login/");
 		
 	}
 
