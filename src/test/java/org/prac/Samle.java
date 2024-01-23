@@ -13,6 +13,10 @@ public class Samle {
 	WebDriver driver=new ChromeDriver();
 	driver.manage().window().maximize();
 	driver.get("https://www.youtube.com/");
+	driver.get("https://demo.nopcommerce.com/");
+	
+
+	
 		
 	}
 
